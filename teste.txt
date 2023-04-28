@@ -7,3 +7,4 @@ C2
 
 - Alteração 4
 - Alteração 5
+- Alteração 6
